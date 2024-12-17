@@ -10,11 +10,11 @@ My goal is to combine my scientific expertise with my new skills in data analysi
 - **Data Visualization :** Power BI, Matplotlib, Seaborn, Plotly
 - **Data Librairies :** Pandas, NumPy
 - **Databases :** MySQL 
-- **Machine Learning:** Scikit-learn
+- **Machine Learning :** Scikit-learn
 - **Other Tools :** Git, Jupyter Notebook, Excel
 
 
-## 😊 Soft Skills
+## 🤝 Soft Skills
 
 
 ## 🎓 Education 
