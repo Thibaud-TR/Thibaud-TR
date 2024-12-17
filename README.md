@@ -4,6 +4,15 @@ I chose to embark on a new professional adventure in data analysis.
 In my experiences, I have constantly dealt with data processing, whether it was to optimize industrial processes, analyze research results, or interpret trends.
 My goal is to combine my scientific expertise with my new skills in data analysis to solve complex problems, bring new perspectives, and contribute to decision-making.
 
+## 💻 Technical Skills
+
+- **Programming Languages :** Python, SQL, HTML, CSS, Visual Basic
+- **Data Visualization :** Power BI, Matplotlib, Seaborn, Plotly
+- **Data Librairies :** Pandas, NumPy
+- **Databases :** MySQL 
+- **Machine Learning:** Scikit-learn
+- **Other Tools :** Git, Jupyter Notebook, Excel
+
 ## 🎓 Education 
  
 ## 💼 Experiences
