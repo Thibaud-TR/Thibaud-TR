@@ -13,6 +13,10 @@ My goal is to combine my scientific expertise with my new skills in data analysi
 - **Machine Learning:** Scikit-learn
 - **Other Tools :** Git, Jupyter Notebook, Excel
 
+
+## 😊 Soft Skills
+
+
 ## 🎓 Education 
  
 ## 💼 Experiences
