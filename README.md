@@ -1,8 +1,8 @@
 # 👋 Welcome to My GitHub Profile!
-Hello, my name is Thibaud and I am a chemical engineer by training. After spending several years working in chemistry, I acquired solid skills in problem-solving, project management, and scientific data analysis. 
-I chose to embark on a new professional adventure in data analysis.
-In my experiences, I have constantly dealt with data processing, whether it was to optimize industrial processes, analyze research results, or interpret trends.
-My goal is to combine my scientific expertise with my new skills in data analysis to solve complex problems, bring new perspectives, and contribute to decision-making.
+
+"Hi, I'm Thibaud, a chemical engineer with strong skills in problem-solving, project management, and data analysis. 
+After several years in chemistry, I've transitioned to data analysis. Throughout my career, I've worked with data to optimize processes and interpret trends. 
+My goal is to combine my scientific background with data analysis to solve complex problems and support decision-making."
 
 ## 💻 Technical Skills
 
@@ -16,9 +16,16 @@ My goal is to combine my scientific expertise with my new skills in data analysi
 
 ## 🤝 Soft Skills
 
+- Project Management
+- Data analysis
+- Organization
+- Planning
+- Autonomy
+- Adaptability
+- Versatility
+- Teamwork
 
-## 🎓 Education 
- 
+
 ## 💼 Experiences
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -26,6 +33,8 @@ My goal is to combine my scientific expertise with my new skills in data analysi
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## 🎓 Education 
 
 <!---
 Thibaud-TR/Thibaud-TR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
