@@ -37,12 +37,7 @@ My goal is to combine my scientific background with data analysis to solve compl
 - 🌟 [Link to the project](https://github.com/Thibaud-TR/Movie_advice)
 
 ## 💼 Experiences
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 ## 🎓 Education 
 
@@ -51,7 +46,7 @@ My goal is to combine my scientific background with data analysis to solve compl
 - 📄 **Description :** The Data Analyst training program is structured around 4 skill blocks. During this intensive training, I learned how to collect data, transform it using Python algorithms, present this information with data visualisation tools and use machine learning to create predictive models.
 - ⚙ **Skills :** Python, SQL, HTML-CSS, Power BI, Matplotlib, Seaborn, Plotly, Pandas, NumPy, Scikit-learn, Git, Jupyter Notebook
 
-### 3. Chemical Engineer - ENSCMu - Master Degree
+### 2. Chemical Engineer - ENSCMu - Master Degree
 
 
 
