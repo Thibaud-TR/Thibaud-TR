@@ -29,8 +29,10 @@ My goal is to combine my scientific background with data analysis to solve compl
 
 ### 1. Movie Advice Website
 
-- 📄 **Description :** The goal of this project is to create an app
-  -  Step 1 :
+- 📄 **Description :** The goal of this project is to create a movie recommendation app that provides movie titles based on other movies you like.
+  -  Step 1 : Movies database creation using 'The Movie Database' website API
+  -  Step 2 : Use of machine learning to train a model of recommendation
+  -  Step 3 : Create a user friendly app easy to use
 - 🔧 **Tools :** Python, Pandas, Streamlit, Scikit Learn (ML), API Requests
 - 🌟 [Link to the project](https://github.com/Thibaud-TR/Movie_advice)
 
@@ -46,11 +48,11 @@ My goal is to combine my scientific background with data analysis to solve compl
 
 ### 1. Data Analyst - WILD CODE SCHOOL
 
-- 📄 **Description :** Project analyzing online sales performance to identify best-selling products and high-performance periods.
+- 📄 **Description :** The Data Analyst training program is structured around 4 skill blocks. During this 5-month intensive training, I learned how to collect data, transform it using Python algorithms, present this information data visualisation tools and use Machine Learning to create predictive models.
 - ⚙ **Skills :** Python, SQL, Numpy, Pandas, Matplotlib, Tableau
 
 
-3. Chemical Engineer - ENSCMu
+### 3. Chemical Engineer - ENSCMu
 
 
 
