@@ -28,9 +28,10 @@ My goal is to combine my scientific background with data analysis to solve compl
 ## 📊 Projects
 
 ### 1. Movie Advice Website
-📄 Description : 
-🔧 Tools : Python, Pandas, Streamlit, Scikit Learn (ML), Web-scraping
-🌟 [Link to the project](https://github.com/Thibaud-TR/Movie_advice)
+
+- 📄 Description : 
+- 🔧 Tools : Python, Pandas, Streamlit, Scikit Learn (ML), Web-scraping
+- 🌟 [Link to the project](https://github.com/Thibaud-TR/Movie_advice)
 
 ## 💼 Experiences
 - 👀 I’m interested in ...
@@ -42,9 +43,10 @@ My goal is to combine my scientific background with data analysis to solve compl
 
 ## 🎓 Education 
 
-1. Data Analyst - WILD CODE SCHOOL
-📄 Description : Project analyzing online sales performance to identify best-selling products and high-performance periods.
-⚙ Skills : Python, SQL, Numpy, Pandas, Matplotlib, Tableau
+### 1. Data Analyst - WILD CODE SCHOOL
+
+- 📄 Description : Project analyzing online sales performance to identify best-selling products and high-performance periods.
+- ⚙ Skills : Python, SQL, Numpy, Pandas, Matplotlib, Tableau
 
 
 3. Chemical Engineer - ENSCMu
