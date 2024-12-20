@@ -49,20 +49,8 @@ My goal is to combine my scientific background with data analysis to solve compl
 ### 2. Chemical Engineer - ENSCMu - Master Degree
 
 - 📄 **Description :** This 5 years program combines both theoretical and practical learning about about chemistry. It covers analytical chemistry, organic and inorganic chemistry, materials and chemical synthesis. It also allowed to develop soft skills as project management, safety and regulatory compliance, data analysis, scientific rigor, teamwork and communication
-- ⚙ **Skills :** Statistics, Critical Thinking, Problem solving, Data Analysis, Team Working
+- ⚙ **Skills :** Statistics, Critical Thinking, Problem solving, Data Analysis, Team Working, Adaptability
 
-Theoretical and practical training for the profession of chemical engineer: ➖ Analytical chemistry
-➖ Synthetic chemistry
-➖ Materials chemistry
-➖ Chemical engineering
-➖ Formulation
-
-In addition to chemistry knowledge, this training also allowed me to acquire transversal skills such as:
-➖ Project management
-➖ Standards and best practices related to quality and safety
-➖ Data analysis and interpretation of scientific results
-➖ Communication with the presentation of these results
-➖ Teamwork through numerous collaborative projects
 
 
 <!---
