@@ -46,7 +46,7 @@ My goal is to combine my scientific background with data analysis to solve compl
 - 📄 **Description :** The Data Analyst training program is structured around 4 skill blocks. During this intensive training, I learned how to collect data, transform it using Python algorithms, present this information with data visualisation tools and use machine learning to create predictive models.
 - ⚙ **Skills :** Python, SQL, HTML-CSS, Power BI, Matplotlib, Seaborn, Plotly, Pandas, NumPy, Scikit-learn, Git, Jupyter Notebook
 
-### 2. Chemical Engineer - ENSCMu - Master Degree - 2017
+### Chemical Engineer - ENSCMu - Master Degree - 2017
 
 - 📄 **Description :** This 5 years program combines both theoretical and practical learning about about chemistry. It covers analytical chemistry, organic and inorganic chemistry, materials and chemical synthesis. It also allowed to develop soft skills as project management, safety and regulatory compliance, data analysis, scientific rigor, teamwork and communication
 - ⚙ **Skills :** Statistics, Critical Thinking, Problem solving, Data Analysis, Team Working, Adaptability
