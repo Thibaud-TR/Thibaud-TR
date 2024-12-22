@@ -38,7 +38,7 @@ My goal is to combine my scientific background with data analysis to solve compl
 
 ## 💼 Experiences
 
-You can see all my working and non-working experiences on my linkedin profile 😉
+You can see details on all my experiences on my linkedin profile 😉 - 🌟 [Click Here](https://www.linkedin.com/in/thibaud-rousselot-52747a12b)🌟
 
 ## 🎓 Education 
 
