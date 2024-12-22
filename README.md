@@ -38,6 +38,7 @@ My goal is to combine my scientific background with data analysis to solve compl
 
 ## 💼 Experiences
 
+You can see all my working and non-working experiences on my linkedin profile 😉
 
 ## 🎓 Education 
 
