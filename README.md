@@ -34,7 +34,7 @@ My goal is to combine my scientific background with data analysis to solve compl
   -  Step 2 : Extract relevant data and create KPIs
   -  Step 3 : Design a functional and intuitive dashboard
 - 🔧 **Tools :** SQL, PowerBI, PowerQuery, DAX
-- 🌟 [Link to the project](https://github.com/Thibaud-TR/Movie_advice)
+- 🌟 [Link to the project](https://github.com/Thibaud-TR/business_intelligence_dashboard))
 
 ### 2. Movie Advice Website
 
