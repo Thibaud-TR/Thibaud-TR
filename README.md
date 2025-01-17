@@ -27,8 +27,7 @@ My goal is to combine my scientific background with data analysis to solve compl
 
 ## 📊 Projects
 
-### 1. *Business Intelligence Dashboard*
-
+### 1. Business Intelligence Dashboard
 
 - 📄 **Description :** The goal of this dashboard is to provide a clear and centralized view of key performance indicators (KPIs) and strategic goals of the company.
   -  Step 1 : Understand and analyze the company's database
@@ -36,6 +35,8 @@ My goal is to combine my scientific background with data analysis to solve compl
   -  Step 3 : Design a functional and intuitive dashboard
 - 🔧 **Tools :** SQL, PowerBI, PowerQuery, DAX
 - 🌟 [Link to the project](https://github.com/Thibaud-TR/Movie_advice)
+
+"***" 
 
 ### 2. Movie Advice Website
 
