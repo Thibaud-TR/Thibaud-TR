@@ -45,6 +45,15 @@ My goal is to combine my scientific background with data analysis to solve compl
 - 🔧 **Tools :** Python, Pandas, Streamlit, Scikit Learn (ML), API Requests
 - 🌟 [Link to the project](https://github.com/Thibaud-TR/Movie_advice)
 
+
+### 3. Recipe Book App
+
+- 📄 **Description :** 
+  -  Step 1 : 
+  -  Step 2 : 
+  -  Step 3 : 
+- 🌟 [Link to the project](https://github.com/LunaGTN/DataChef)
+
 ## 💼 Experiences
 
 You can see details on all my experiences on my linkedin profile 😉 - 🌟 [Click Here](https://www.linkedin.com/in/thibaud-rousselot-52747a12b) 🌟
