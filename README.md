@@ -7,7 +7,7 @@ My goal is to combine my scientific background with data analysis to solve compl
 ## 💻 Technical Skills
 
 - **Programming Languages :** Python, SQL, HTML, CSS, Visual Basic
-- **Data Visualization :** Power BI, Matplotlib, Seaborn, Plotly
+- **Data Visualization :** Power BI, Matplotlib, Seaborn, Plotly, Streamlit
 - **Data Librairies :** Pandas, NumPy
 - **Databases :** MySQL 
 - **Machine Learning :** Scikit-learn
