@@ -27,7 +27,7 @@ My goal is to combine my scientific background with data analysis to solve compl
 
 ## 📊 Projects
 
-### 1. Business Intelligence Dashboard
+### 1. *Business Intelligence Dashboard*
 
 
 - 📄 **Description :** The goal of this dashboard is to provide a clear and centralized view of key performance indicators (KPIs) and strategic goals of the company.
