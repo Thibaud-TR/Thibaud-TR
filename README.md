@@ -36,8 +36,6 @@ My goal is to combine my scientific background with data analysis to solve compl
 - 🔧 **Tools :** SQL, PowerBI, PowerQuery, DAX
 - 🌟 [Link to the project](https://github.com/Thibaud-TR/Movie_advice)
 
-***
-
 ### 2. Movie Advice Website
 
 - 📄 **Description :** The goal of this project is to create a movie recommendation app that provides movie titles based on other movies you like.
