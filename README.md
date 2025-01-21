@@ -46,7 +46,7 @@ My goal is to combine my scientific background with data analysis to solve compl
 - 🌟 [Link to the project](https://github.com/Thibaud-TR/Movie_advice)
 
 
-### 3. Recipe Book App
+### 3. Recipe Book App (⚙ In Progress)
 
 - 📄 **Description :** 
   -  Step 1 : 
