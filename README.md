@@ -48,10 +48,11 @@ My goal is to combine my scientific background with data analysis to solve compl
 
 ### 3. Recipe Book App (🏗 In Progress 🚧)
 
-- 📄 **Description :** 
+- 📄 **Description :** The goal of this project is to create an interactive app that serves as a personalized recipe book for each user. Users will be able to save, modify, and view their favorite recipes, generate a weekly meal plan, and edit a shopping list.
   -  Step 1 : 
   -  Step 2 : 
-  -  Step 3 : 
+  -  Step 3 :
+- 🔧 **Tools :** Python, Pandas, Streamlit, Scikit Learn (ML), AI-API, Web-Scraping, Cloud(AWS)
 - 🌟 [Link to the project](https://github.com/LunaGTN/DataChef)
 
 ## 💼 Experiences
