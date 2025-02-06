@@ -11,6 +11,7 @@ My goal is to combine my scientific background with data analysis to solve compl
 - **Data Librairies :** Pandas, NumPy
 - **Databases :** MySQL, PostgreSQL
 - **Machine Learning :** Scikit-learn
+- **Cloud :** AWS (S3, RDS, EC2)
 - **Other Tools :** Git, Jupyter Notebook, Excel
 - **Languages :** English, Spanish 
 
