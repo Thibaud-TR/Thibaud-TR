@@ -63,7 +63,7 @@ You can see details on all my experiences on my linkedin profile 😉 - 🌟 [Cl
 
 ## 🎓 Education 
 
-### Data Analyst - WILD CODE SCHOOL - 5 months - 2025
+### Data Analyst - WILD CODE SCHOOL - Bachelor Degree - 2025
 
 - 📄 **Description :** The Data Analyst training program is structured around 4 skill blocks. During this intensive training, I learned how to collect data, transform it using Python algorithms, present this information with data visualisation tools and use machine learning to create predictive models.
 - ⚙ **Skills :** Python, SQL, HTML-CSS, Power BI, Matplotlib, Seaborn, Plotly, Pandas, NumPy, Scikit-learn, Git, Jupyter Notebook
