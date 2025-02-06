@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile!
 
 Hi, I'm Thibaud, a chemical engineer with strong skills in problem-solving, project management, and data analysis. 
-After several years in chemistry, I've transitioned to data analysis. Throughout my career, I've worked with data to optimize processes and interpret trends. 
+After several years in chemistry, I've transitioned to data science. Throughout my career, I've worked with data to optimize processes and interpret trends. 
 My goal is to combine my scientific background with data analysis to solve complex problems and support decision-making.
 
 ## 💻 Technical Skills
@@ -9,7 +9,7 @@ My goal is to combine my scientific background with data analysis to solve compl
 - **Programming Languages :** Python, SQL, HTML, CSS, Visual Basic
 - **Data Visualization :** Power BI, Matplotlib, Seaborn, Plotly, Streamlit
 - **Data Librairies :** Pandas, NumPy
-- **Databases :** MySQL 
+- **Databases :** MySQL, PostgreSQL
 - **Machine Learning :** Scikit-learn
 - **Other Tools :** Git, Jupyter Notebook, Excel
 - **Languages :** English, Spanish 
