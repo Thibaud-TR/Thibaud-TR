@@ -53,7 +53,7 @@ My goal is to combine my scientific background with data analysis to solve compl
   -  Step 1 : 
   -  Step 2 : 
   -  Step 3 :
-- 🔧 **Tools :** Python, Pandas, Streamlit, Scikit Learn (ML), AI-API, Web-Scraping, Cloud(AWS)
+- 🔧 **Tools :** Python, Pandas, Streamlit, AI-API, Web-Scraping, Cloud(AWS)
 - 🌟 [Link to the project](https://github.com/LunaGTN/DataChef)
 
 ## 💼 Experiences
