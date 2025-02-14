@@ -28,7 +28,7 @@ My goal is to combine my scientific background with data analysis to solve compl
 
 ## 📊 Projects
 
-### 1. Business Intelligence Dashboard
+### 🔸 1. Business Intelligence Dashboard
 
 - 📄 **Description :** The goal of this dashboard is to provide a clear and centralized view of key performance indicators (KPIs) and strategic goals of the company.
   -  Step 1 : Understand and analyze the company's database
@@ -36,8 +36,9 @@ My goal is to combine my scientific background with data analysis to solve compl
   -  Step 3 : Design a functional and intuitive dashboard
 - 🔧 **Tools :** SQL, PowerBI, PowerQuery, DAX
 - 🌟 [Link to the project](https://github.com/Thibaud-TR/business_intelligence_dashboard)
+<br>
 
-### 2. Movie Advice Website
+### 🔸 2. Movie Advice Website
 
 - 📄 **Description :** The goal of this project is to create a movie recommendation app that provides movie titles based on other movies you like.
   -  Step 1 : Movies database creation using 'The Movie Database' website API
@@ -45,9 +46,9 @@ My goal is to combine my scientific background with data analysis to solve compl
   -  Step 3 : Create a user friendly app easy to use
 - 🔧 **Tools :** Python, Pandas, Streamlit, Scikit Learn (ML), API Requests
 - 🌟 [Link to the project](https://github.com/Thibaud-TR/Movie_advice)
+<br>
 
-
-### 3. Recipe Book App (🏗 In Progress 🚧)
+### 🔸 3. Recipe Book App (🏗 In Progress 🚧)
 
 - 📄 **Description :** The objective of this project is to create an interactive app that functions as a personalized recipe book for each user. Users will have the ability to save, edit, and browse their favorite recipes, generate weekly meal plans, and manage shopping lists seamlessly.
   -  Step 1 : Design and implementation of the SQL database on AWS RDS
@@ -56,6 +57,7 @@ My goal is to combine my scientific background with data analysis to solve compl
   -  Step 3 : Create a functional application
 - 🔧 **Tools :** Python, Pandas, Streamlit, Web-Scraping, AI-API, Cloud(AWS)
 - 🌟 [Link to the project](https://github.com/LunaGTN/DataChef)
+<br>
 
 ## 💼 Experiences
 
