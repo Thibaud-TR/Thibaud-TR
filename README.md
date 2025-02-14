@@ -36,7 +36,6 @@ My goal is to combine my scientific background with data analysis to solve compl
   -  Step 3 : Design a functional and intuitive dashboard
 - 🔧 **Tools :** SQL, PowerBI, PowerQuery, DAX
 - 🌟 [Link to the project](https://github.com/Thibaud-TR/business_intelligence_dashboard)
-<br>
 
 ### 🔸 2. Movie Advice Website
 
@@ -46,7 +45,6 @@ My goal is to combine my scientific background with data analysis to solve compl
   -  Step 3 : Create a user friendly app easy to use
 - 🔧 **Tools :** Python, Pandas, Streamlit, Scikit Learn (ML), API Requests
 - 🌟 [Link to the project](https://github.com/Thibaud-TR/Movie_advice)
-<br>
 
 ### 🔸 3. Recipe Book App (🏗 In Progress 🚧)
 
@@ -57,7 +55,6 @@ My goal is to combine my scientific background with data analysis to solve compl
   -  Step 3 : Create a functional application
 - 🔧 **Tools :** Python, Pandas, Streamlit, Web-Scraping, AI-API, Cloud(AWS)
 - 🌟 [Link to the project](https://github.com/LunaGTN/DataChef)
-<br>
 
 ## 💼 Experiences
 
