@@ -15,7 +15,6 @@ My goal is to combine my scientific background with data analysis to solve compl
 - **Other Tools :** Git, Jupyter Notebook, Excel
 - **Languages :** English, Spanish 
 
-<br>
 
 ## 🤝 Soft Skills
 
@@ -28,7 +27,6 @@ My goal is to combine my scientific background with data analysis to solve compl
 - Versatility
 - Teamwork
 
-<br>
 
 ## 📊 Projects
 
@@ -71,8 +69,6 @@ My goal is to combine my scientific background with data analysis to solve compl
 I have 7 years of experience as chemical engineer
 
 You can see details on all my experiences on my linkedin profile 😉 - 🌟 [Click Here](https://www.linkedin.com/in/thibaud-rousselot-52747a12b) 🌟
-
-<br>
 
 ## 🎓 Education 
 
