@@ -15,6 +15,8 @@ My goal is to combine my scientific background with data analysis to solve compl
 - **Other Tools :** Git, Jupyter Notebook, Excel
 - **Languages :** English, Spanish 
 
+<br>
+
 ## 🤝 Soft Skills
 
 - Project Management
@@ -25,6 +27,8 @@ My goal is to combine my scientific background with data analysis to solve compl
 - Adaptability
 - Versatility
 - Teamwork
+
+<br>
 
 ## 📊 Projects
 
@@ -37,6 +41,8 @@ My goal is to combine my scientific background with data analysis to solve compl
 - 🔧 **Tools :** SQL, PowerBI, PowerQuery, DAX
 - 🌟 [Link to the project](https://github.com/Thibaud-TR/business_intelligence_dashboard)
 
+<br>
+
 ### 🔸 2. <ins>Movie Advice Website</ins>
 
 - 📄 **Description :** The goal of this project is to create a movie recommendation app that provides movie titles based on other movies you like.
@@ -45,6 +51,8 @@ My goal is to combine my scientific background with data analysis to solve compl
   -  Step 3 : Create a user friendly app easy to use
 - 🔧 **Tools :** Python, Pandas, Streamlit, Scikit Learn (ML), API Requests
 - 🌟 [Link to the project](https://github.com/Thibaud-TR/Movie_advice)
+
+<br>
 
 ### 🔸 3. <ins>Recipe Book App</ins> (🏗 In Progress 🚧)
 
@@ -56,11 +64,15 @@ My goal is to combine my scientific background with data analysis to solve compl
 - 🔧 **Tools :** Python, Pandas, Streamlit, Web-Scraping, AI-API, Cloud(AWS)
 - 🌟 [Link to the project](https://github.com/LunaGTN/DataChef)
 
+<br>
+
 ## 💼 Experiences
 
 I have 7 years of experience as chemical engineer
 
 You can see details on all my experiences on my linkedin profile 😉 - 🌟 [Click Here](https://www.linkedin.com/in/thibaud-rousselot-52747a12b) 🌟
+
+<br>
 
 ## 🎓 Education 
 
