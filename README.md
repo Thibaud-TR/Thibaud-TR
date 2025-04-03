@@ -66,7 +66,7 @@ My goal is to combine my scientific background with data analysis to solve compl
 
 ## 💼 Experiences
 
-I have 7 years of experience as chemical engineer
+I have 5 years of experience as chemical engineer
 
 You can see details on all my experiences on my linkedin profile 😉 - 🌟 [Click Here](https://www.linkedin.com/in/thibaud-rousselot-52747a12b) 🌟
 
