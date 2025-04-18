@@ -71,7 +71,7 @@ My goal is to combine my scientific background with data analysis to solve compl
 - 📄 **Description :** 
 - 🔧 **Tools :** Python, SQL, Snowflake, Pandas, Streamlit, Plotly, Git, Jupyter Notebook
 
-<br>
+
 
 ### Chemical Engineer - 2017/2024
 I have 5 years of experience as chemical engineer
