@@ -30,7 +30,7 @@ My goal is to combine my scientific background with data analysis to solve compl
 
 ## 📊 Projects
 
-### 🔸 1. <ins>Business Intelligence Dashboard</ins>
+### 1. <ins>Business Intelligence Dashboard</ins>
 
 - 📄 **Description :** The goal of this dashboard is to provide a clear and centralized view of key performance indicators (KPIs) and strategic goals of the company.
   -  Step 1 : Understand and analyze the company's database
@@ -41,7 +41,7 @@ My goal is to combine my scientific background with data analysis to solve compl
 
 <br>
 
-### 🔸 2. <ins>Movie Advice Website</ins>
+### 2. <ins>Movie Advice Website</ins>
 
 - 📄 **Description :** The goal of this project is to create a movie recommendation app that provides movie titles based on other movies you like.
   -  Step 1 : Movies database creation using 'The Movie Database' website API
@@ -52,7 +52,7 @@ My goal is to combine my scientific background with data analysis to solve compl
 
 <br>
 
-### 🔸 3. <ins>Recipe Book App</ins> (🏗 In Progress 🚧)
+### 3. <ins>Recipe Book App</ins> (🏗 In Progress 🚧)
 
 - 📄 **Description :** The objective of this project is to create an interactive app that functions as a personalized recipe book for each user. Users will have the ability to save, edit, and browse their favorite recipes and generate weekly meal plans with data dashboard.
   -  Step 1 : Design and implementation of the SQL database on AWS RDS
@@ -68,15 +68,21 @@ My goal is to combine my scientific background with data analysis to solve compl
 
 ### Data Analyst Intership - ZODIAC POOL CARE EUROPE - 2025 - 6 Months
 
-- 📄 **Description :** 
-- 🔧 **Tools :** Python, SQL, Snowflake, Pandas, Streamlit, Plotly, Git, Jupyter Notebook
+- 📄 **Description :**
+  - Creation and update of several streamlit applications (telemetry device display and analysis, interactive app for laboratory uses, ...)
+  - Dashboard creation with PowerBI
+  - Table creation and update with SQL scripts
+  - Work with Agile Methodology
+- 🔧 **Tools :** Agile Methodology, Python, SQL, Snowflake, Pandas, Streamlit, Plotly, Git, Jupyter Notebook
 
-
+<br>
 
 ### Chemical Engineer - 2017/2024
 I have 5 years of experience as chemical engineer
 
 You can see details on all my experiences on my linkedin profile 😉 - 🌟 [Click Here](https://www.linkedin.com/in/thibaud-rousselot-52747a12b) 🌟
+
+<br>
 
 ## 🎓 Education 
 
@@ -84,6 +90,8 @@ You can see details on all my experiences on my linkedin profile 😉 - 🌟 [Cl
 
 - 📄 **Description :** The Data Analyst training program is structured around 4 skill blocks. During this intensive training, I learned how to collect data, transform it using Python algorithms, present this information with data visualisation tools and use machine learning to create predictive models.
 - ⚙ **Skills :** Python, SQL, HTML-CSS, Power BI, Matplotlib, Seaborn, Plotly, Pandas, NumPy, Scikit-learn, Git, Jupyter Notebook
+
+<br>
 
 ### Chemical Engineer - ENSCMu - Master Degree - 2017
 
