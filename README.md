@@ -66,7 +66,7 @@ My goal is to combine my scientific background with data analysis to solve compl
 
 ## 💼 Experiences
 
-### Data Analyst Intership - ZODIAC POOL CARE EUROPE - 2025 - 6 Months
+### Data Analyst Intership - ZODIAC POOL CARE EUROPE - Apr/Sept 2025 - 6 Months
 
 - 📄 **Description :**
   - Creation and update of several streamlit applications (telemetry device display and analysis, interactive app for laboratory uses, ...)
