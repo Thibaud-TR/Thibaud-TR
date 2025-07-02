@@ -69,10 +69,11 @@ My goal is to combine my scientific background with data analysis to solve compl
 
 ### Data Analyst Intership - ZODIAC POOL CARE EUROPE - Apr/Sept 2025 - 6 Months
 
-- 📄 **Description :**
-  - Creation and update of several streamlit applications (telemetry device display and analysis, interactive app for laboratory uses, ...)
+- 📄 **Description :** Exploitation and valorization of pool robots telemetry data
   - Dashboard creation with PowerBI
-  - Table creation and update with SQL scripts
+  - Creation and update of several streamlit applications (telemetry device data display and analysis, interactive app for laboratory uses, ...)
+  - Failure detection using machine learning
+  - Database architecture 
   - Work with Agile Methodology
 - 🔧 **Tools :** Agile Methodology, Python, SQL, Snowflake, Pandas, Streamlit, Plotly, Git, Jupyter Notebook
 
