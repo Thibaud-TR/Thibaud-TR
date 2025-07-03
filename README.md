@@ -13,7 +13,7 @@ My goal is to combine my scientific background with data analysis to solve compl
 - **Machine Learning :** Scikit-learn
 - **Cloud :** AWS (S3, RDS, EC2)
 - **Other Tools :** Git, Jupyter Notebook, Excel
-- **Methodology :** Agile Scrum
+- **Methodology :** Agile Scrum, JIRA
 - **Languages :** English, Spanish 
 
 
@@ -75,7 +75,7 @@ My goal is to combine my scientific background with data analysis to solve compl
   - Robot failure cause detection using machine learning
   - Database architecture 
   - Work with Agile Methodology
-- 🔧 **Tools :** Agile Methodology, Python, SQL, Snowflake, Pandas, Streamlit, Plotly, Git, Jupyter Notebook
+- 🔧 **Tools :** Agile Methodology, JIRA, Python, SQL, Snowflake, Pandas, Streamlit, Plotly, Git, Jupyter Notebook
 
 <br>
 
