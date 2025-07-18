@@ -37,7 +37,7 @@ My goal is to combine my scientific background with data analysis to solve compl
   -  Step 1 : Understand and analyze the company's database
   -  Step 2 : Extract relevant data and create KPIs
   -  Step 3 : Design a functional and intuitive dashboard
-- 🔧 **Tools :** SQL, PowerBI, PowerQuery, DAX
+- 🔧 **Tools :** *SQL, PowerBI, PowerQuery, DAX*
 - 🌟 [Link to the project](https://github.com/Thibaud-TR/business_intelligence_dashboard)
 
 <br>
@@ -48,7 +48,7 @@ My goal is to combine my scientific background with data analysis to solve compl
   -  Step 1 : Movies database creation using 'The Movie Database' website API
   -  Step 2 : Use of machine learning to train a model of recommendation
   -  Step 3 : Create a user friendly app easy to use
-- 🔧 **Tools :** Python, Pandas, Streamlit, Scikit Learn (ML), API Requests
+- 🔧 **Tools :** *Python, Pandas, Streamlit, Scikit Learn (ML), API Requests*
 - 🌟 [Link to the project](https://github.com/Thibaud-TR/Movie_advice)
 
 <br>
@@ -60,7 +60,7 @@ My goal is to combine my scientific background with data analysis to solve compl
   -  Step 2 : Web scraping to populate the database with recipes
   -  Step 3 : AI API Requests to add features on recipes
   -  Step 4 : Create a functional application
-- 🔧 **Tools :** Python, Pandas, Streamlit, Web-Scraping, AI-API, Cloud(AWS)
+- 🔧 **Tools :** *Python, Pandas, Streamlit, Web-Scraping, AI-API, Cloud(AWS)*
 - 🌟 [Link to the project](https://github.com/LunaGTN/DataChef)
 
 <br>
@@ -71,11 +71,11 @@ My goal is to combine my scientific background with data analysis to solve compl
 
 - 📄 **Description :** Exploitation and valorization of pool robots telemetry data
   - Dashboard creation with PowerBI
-  - Creation and update of several streamlit applications (telemetry device data display and analysis, interactive app for laboratory uses, ...)
-  - Robot failure cause detection using machine learning
-  - Database architecture 
+  - Streamlit application for advanced product analysis including AI technologies
+  - Streamlit application for validation lab management and linked database management
+  - Database management
   - Work with Agile Methodology
-- 🔧 **Tools :** Agile Methodology, JIRA, Python, SQL, Snowflake, Pandas, Streamlit, Plotly, Git, Jupyter Notebook
+- 🔧 **Tools :** *Agile Methodology, JIRA, Python, SQL, Snowflake, Pandas, Scikit Learn, Streamlit, Plotly, Git, Jupyter Notebook*
 
 <br>
 
@@ -91,14 +91,14 @@ You can see details on all my experiences on my linkedin profile 😉 - 🌟 [Cl
 ### Data Analyst - WILD CODE SCHOOL - Bachelor Degree - 2025
 
 - 📄 **Description :** The Data Analyst training program is structured around 4 skill blocks. During this intensive training, I learned how to collect data, transform it using Python algorithms, present this information with data visualisation tools and use machine learning to create predictive models.
-- ⚙ **Skills :** Python, SQL, HTML-CSS, Power BI, Matplotlib, Seaborn, Plotly, Pandas, NumPy, Scikit-learn, Git, Jupyter Notebook
+- ⚙ **Skills :** *Python, SQL, HTML-CSS, Power BI, Matplotlib, Seaborn, Plotly, Pandas, NumPy, Scikit-learn, Git, Jupyter Notebook*
 
 <br>
 
 ### Chemical Engineer - ENSCMu - Master Degree - 2017
 
 - 📄 **Description :** This 5 years program combines both theoretical and practical learning about about chemistry. It covers analytical chemistry, organic and inorganic chemistry, materials and chemical synthesis. It also allowed to develop soft skills as project management, safety and regulatory compliance, data analysis, scientific rigor, teamwork and communication
-- ⚙ **Skills :** Statistics, Critical Thinking, Problem solving, Data Analysis, Team Working, Adaptability
+- ⚙ **Skills :** *Statistics, Critical Thinking, Problem solving, Data Analysis, Team Working, Adaptability*
 
 
 
