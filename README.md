@@ -9,10 +9,10 @@ My goal is to combine my scientific background with data analysis to solve compl
 - **Programming Languages :** Python, SQL, HTML, CSS, Visual Basic
 - **Data Visualization :** Power BI, Matplotlib, Seaborn, Plotly, Streamlit
 - **Data Librairies :** Pandas, NumPy
-- **Databases :** MySQL, PostgreSQL, Snowflake, DBT
+- **Databases :** MySQL, PostgreSQL, Snowflake, DBT Cloud
 - **Machine Learning :** Scikit-learn
 - **Cloud :** AWS (S3, RDS, EC2)
-- **Other Tools :** Git, Jupyter Notebook, Excel
+- **Other Tools :** Git/GitHub, Jupyter Notebook, Excel
 - **Methodology :** Agile Scrum, JIRA
 - **Languages :** English, Spanish 
 
